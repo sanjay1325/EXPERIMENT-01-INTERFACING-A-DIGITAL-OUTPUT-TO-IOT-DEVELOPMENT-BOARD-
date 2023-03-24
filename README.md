@@ -1,5 +1,9 @@
 # EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
-
+```
+    Name : Jhagan B
+    RegNo : 212220040066
+    Sub : 19AM508
+```
 ## Aim: To Interface a Digital output (LED) to ARM IOT development board and write a  program to blink an led 
 ## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool.
 ## Theory 
